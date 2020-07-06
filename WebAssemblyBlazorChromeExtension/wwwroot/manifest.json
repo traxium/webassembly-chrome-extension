@@ -7,6 +7,5 @@
   "browser_action": {
     "default_popup": "index.html"
   },
-  "web_accessible_resources": [ "dotnet.wasm" ],
   "content_security_policy": "script-src 'self' 'unsafe-eval' 'sha256-v8v3RKRPmN4odZ1CWM5gw80QKPCCWMcpNeOmimNL2AA='; object-src 'self'"
 }
