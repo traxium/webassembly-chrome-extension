@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAssemblyBlazorChromeExtension", "WebAssemblyBlazorChromeExtension\WebAssemblyBlazorChromeExtension.csproj", "{0005344D-68E2-4E68-A85F-3B6319A4182D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4B1AC596-2DA0-4A88-8284-F9F68E40B201}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
